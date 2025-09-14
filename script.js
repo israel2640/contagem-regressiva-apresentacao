@@ -1,5 +1,5 @@
 // Altere a data da apresentação aqui:
-const dataApresentacao = new Date("2025-06-20T19:00:00").getTime();
+const dataApresentacao = new Date("2025-09-15T19:00:00").getTime();
 
 function atualizarContagem() {
   const agora = new Date().getTime();
